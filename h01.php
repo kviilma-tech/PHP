@@ -7,10 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    
-</body>
-</html>
-<?php
+   
+   <?php
 /*
     01 - PHP - Muutujad
     Kaspar Viilma
@@ -28,6 +26,11 @@
         echo $sünniaasta
         echo $tähtkuju
         echo '"It\s My Life" - Dr.Alban<br>';
-
+        echo '(\ (\<br>';
+        echo '( -.-)<br>';
+        echo 'o_(\")(\")<br>';
 ?>
+</body>
+</html>
+
 
